@@ -12,8 +12,15 @@
     <div class="line"><span class="prompt">root@aboutme</span>:<span class="path">~</span>$ cat info.txt</div>
     <div class="line">Location     : /etc/Singapore</div>
     <div class="line">Occupation   : Cybersecurity</div>
-    <div class="line">Hobby        : Eradicate naughty mice 🐀</div>
     <div class="line">Languages    : Python, Bash, JavaScript, Go, C, C++, PowerShell, Assembly</div>
+    <div class="line">Hobby        : Eradicate naughty mice 🐀</div>
+  </div>
+
+  <br>
+
+  <div class="terminal">
+    <div class="line"><span class="prompt">root@aboutme</span>:<span class="path">~</span>$ echo "quote of the day"</div>
+    <div class="line">"Every lock can be picked, every system can be cracked — the only question is how loud you'll be."</div>
   </div>
 </body>
 ```
