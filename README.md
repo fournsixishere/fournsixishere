@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhotz-hacker-gif-hotz-hacker-anonymous-discover-share-gifs--350366046020855560%2F&psig=AOvVaw1eOxvjtac3AOMSM6z7Sai9&ust=1745169692098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi_u_HN5IwDFQAAAAAdAAAAABAE" width="100%" />
+  <img src="https://i.pinimg.com/originals/28/d9/a5/28d9a5107af5d4c4da117c05b4393b83.gif" width="100%" />
 </p>
 
 <p align="center">
