@@ -5,25 +5,29 @@
 <h1 align="center">⚡ Welcome to My Cyber Fortress ⚡</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | CTF Player | Full-stack Adventurer</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Cybersecurity+Lover;Ethical+Hacker+in+Training;Always+on+Watch+Mode" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Cybersecurity Enthusiast | Red Teamer | Network Ninja</b><br>
   <i>Exploring the matrix, one exploit at a time.</i>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🌑 About Me
 
 ```bash
 > whoami
-I'm a Cybersecurity Learner & Developer
+I'm a Cybersecurity Operative & Digital Vigilante
 ```
 
 ```bash
 > cat /etc/profile
-📍 Based in: /etc/indonesia  
-💼 Current Focus: Ethical Hacking, Red Teaming  
-☕ Always Coding in the Shadows  
-🎯 Mission: Stay ethical, stay sharp.
+📍 Location     : /etc/indonesia  
+💼 Occupation   : Cybersecurity  
+🎮 Hobby        : Memberantas tikus yang nakal 🐀  
+🎯 Goal         : Break systems to make them better.
 ```
 
 ---
@@ -34,28 +38,27 @@ I'm a Cybersecurity Learner & Developer
   <a href="https://instagram.com/fournsixishere" target="_blank">
     <img src="https://img.shields.io/badge/Instagram%20Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/fournsixishere" target="_blank">
+  <a href="https://open.spotify.com/user/31orgzyd7jimplkl36kgzwtayccm?si=efbfad4d49b24b15" target="_blank">
     <img src="https://img.shields.io/badge/Spotify%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/your_discord_user_id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💻 Languages & Tools
+### 🧰 Tools & Arsenal
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-BurpSuite-F26600?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-5A5A5A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-007ACC?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-268BCE?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-007ACC?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BurpSuite-F26600?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-5A5A5A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Aircrack-ng-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux%20Terminal-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat-square&logoColor=white" />
 </p>
 
 ---
@@ -70,7 +73,11 @@ I'm a Cybersecurity Learner & Developer
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fournsixishere&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fournsixishere&show_icons=true&theme=tokyonight" height="150" />
@@ -79,11 +86,17 @@ I'm a Cybersecurity Learner & Developer
 
 ---
 
-### 🚀 Most Used Languages
+### 🚀 Most Used Tools
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fournsixishere&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### 🧠 Contribution Activity
+
+[![Fournsixishere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fournsixishere&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
