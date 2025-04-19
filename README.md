@@ -16,8 +16,6 @@
     <div class="line">Hobby        : Eradicate naughty mice 🐀</div>
   </div>
 
-  <br>
-
   <div class="terminal">
     <div class="line"><span class="prompt">root@aboutme</span>:<span class="path">~</span>$ echo "quote of the day"</div>
     <div class="line">"Every lock can be picked, every system can be cracked — the only question is how loud you'll be."</div>
