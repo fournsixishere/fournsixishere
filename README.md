@@ -84,15 +84,11 @@ I'm a Cybersecurity Operative & Digital Vigilante
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fournsixishere&theme=tokyonight" height="150"/>
 </p>
 
----
-
 ### 🚀 Most Used Tools
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fournsixishere&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 ### 🧠 Contribution Activity
 
