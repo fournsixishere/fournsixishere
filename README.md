@@ -1,5 +1,3 @@
-<!-- README Profil GitHub - Tema Cybersecurity, Dark Hacker -->
-
 <p align="center">
   <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg" width="100%" />
 </p>
@@ -34,7 +32,7 @@ I'm a Cybersecurity Learner & Developer
 
 <p align="left">
   <a href="https://instagram.com/fournsixishere" target="_blank">
-    <img src="https://img.shields.io/badge/@fournsixishere-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram%20Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/fournsixishere" target="_blank">
     <img src="https://img.shields.io/badge/Spotify%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -89,18 +87,6 @@ I'm a Cybersecurity Learner & Developer
 
 ---
 
-### 🎯 Quote of the Matrix
-
-> "Hack the planet — but do it ethically."
-
-<p align="center">
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="250px"/>
-</p>
-
----
-
 <p align="center">
   <i>Thanks for dropping by. See you in the next breach 🔐</i>
 </p>
-
----
