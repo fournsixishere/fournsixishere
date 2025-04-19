@@ -7,9 +7,6 @@
 </p>
 
 ```bash
-> whoami
-I'm a Cybersecurity Operative & Digital Vigilante
-
 > cat /etc/profile
 📍 Location     : /etc/indonesia  
 💼 Occupation   : Cybersecurity  
