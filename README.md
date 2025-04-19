@@ -23,6 +23,78 @@
 </body>
 ```
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: "Courier New", Courier, monospace;
+      background-color: #121212;
+      color: #00ff00;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .terminal {
+      background-color: #1e1e1e;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+      margin-bottom: 20px;
+      overflow: hidden; /* Hilangkan scrollbar */
+    }
+
+    .line {
+      margin: 5px 0;
+    }
+
+    .prompt {
+      color: #ff7f50;
+    }
+
+    .path {
+      color: #87ceeb;
+    }
+
+    strong {
+      color: #00ff7f;
+    }
+  </style>
+</head>
+<body>
+  <div class="terminal">
+    <div class="line">
+      <span class="prompt">root@aboutme</span>:<span class="path">~</span>$ cat info.txt
+    </div>
+    <div class="line">
+      <strong>Location</strong>   : /etc/Singapore
+    </div>
+    <div class="line">
+      <strong>Occupation</strong> : Cybersecurity
+    </div>
+    <div class="line">
+      <strong>Hobby</strong>      : Eradicate naughty mice 🐀
+    </div>
+    <div class="line">
+      <strong>Languages</strong>  : Python, Bash, JavaScript, Go, C, C++, PowerShell, Assembly
+    </div>
+  </div>
+
+  <div class="terminal">
+    <div class="line">
+      <span class="prompt">root@aboutme</span>:<span class="path">~</span>$ echo "quote of the day"
+    </div>
+    <div class="line">
+      "Every lock can be picked, every system can be cracked — the only question is how loud you'll be."
+    </div>
+  </div>
+</body>
+</html>
+
+
 ---
 
 [![Fournsixishere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fournsixishere&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
