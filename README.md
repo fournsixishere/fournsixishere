@@ -1,9 +1,7 @@
 <!-- README Profil GitHub - Tema Cybersecurity, Dark Hacker -->
 
-<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/svg/capsule/nord.svg" width="100%" />
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/28/62/58/286258e8c6329a2b8e6cccb3b62b1f8d.gif" width="200" />
+  <img src="https://i.pinimg.com/originals/bd/69/f6/bd69f65f9ea49db19c404f7be9e13781.gif" width="100%" />
 </p>
 
 <h1 align="center">⚡ Welcome to My Cyber Fortress ⚡</h1>
@@ -35,17 +33,17 @@ I'm a Cybersecurity Learner & Developer
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://instagram.com/your_ig_username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/fournsixishere" target="_blank">
+    <img src="https://img.shields.io/badge/@fournsixishere-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/your_spotify_username" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/user/fournsixishere" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💻 Languages & Tech Stack
+### 💻 Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
@@ -64,11 +62,21 @@ I'm a Cybersecurity Learner & Developer
 
 ---
 
+### 🏆 Certifications & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-blue?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=limegreen" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fournsixishere&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fournsixishere&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -76,7 +84,7 @@ I'm a Cybersecurity Learner & Developer
 ### 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fournsixishere&layout=compact&theme=tokyonight" />
 </p>
 
 ---
