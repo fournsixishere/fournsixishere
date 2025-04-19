@@ -1,39 +1,34 @@
-# About Me
+<p align="center">
+  <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg" width="100%" />
+</p>
 
-## 🌍 Location
-Singapore
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Cybersecurity+Lover;Ethical+Hacker+in+Training;Always+on+Watch+Mode" alt="Typing SVG" />
+</p>
 
-## 💼 Profession
-Cybersecurity
+### 🌑 About Me
 
-## 🎮 Hobbies
-Killing naughty and evil rats 🐀
+```bash
+> whoami
+I'm a Cybersecurity Operative & Digital Vigilante
+```
 
----
-
-## Discord Profile
-
-[![Discord Profile](https://discord.com/assets/7db4a0b9e8e7c4c5a04d22f3a11d4c11.png)](https://discord.com/users/your-discord-id)  
-[View Profile](https://discord.com/users/your-discord-id)
-
----
-
-## 🔧 Technologies & Tools
-- 💻 Python, JavaScript, Go
-- 🛡️ Cybersecurity Tools (e.g., Kali Linux, Metasploit)
-- ⚙️ Docker, Kubernetes
-- 📦 Git, GitHub, GitLab
-- 📱 Discord Bot Development
+```bash
+> cat /etc/profile
+📍 Location     : /etc/indonesia  
+💼 Occupation   : Cybersecurity  
+🎮 Hobby        : Memberantas tikus yang nakal 🐀  
+🎯 Goal         : Break systems to make them better.
+```
 
 ---
 
-## 📫 Contact Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 🎧 [Spotify](https://open.spotify.com/user/your-profile)
+### 🧠 Contribution Activity
+
+[![Fournsixishere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fournsixishere&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🚀 Fun Facts
-- I'm a huge fan of cybersecurity challenges and capture the flag (CTF) events.
-- I have a deep interest in ethical hacking and love solving complex security issues.
+<p align="center">
+  <i>Thanks for dropping by. See you in the next breach 🔐</i>
+</p>
