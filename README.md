@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/3473844579/thumb/10.jpg?ip=x480" width="100%" />
+  <img src="https://media.tenor.com/sWQwKN-b5voAAAAM/hacked-you-have-been-hacked.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5555&center=true&vCenter=true&width=900&lines=Hii+fournsix+is+here+genk;I'm+back...%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5555&center=true&vCenter=true&width=900&lines=Hii+fournsix+is+here+genk;I'm+back..." alt="Typing SVG" />
 </p>
 
 ```bash
