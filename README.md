@@ -8,10 +8,9 @@
 
 ```bash
 > cat /etc/profile
-📍 Location     : /etc/indonesia  
-💼 Occupation   : Cybersecurity  
-🎮 Hobby        : Memberantas tikus yang nakal 🐀  
-🎯 Goal         : Break systems to make them better.
+Location     : /etc/indonesia  
+Occupation   : Cybersecurity  
+Hobby        : Eradicate naughty mice 🐀
 ```
 
 ---
