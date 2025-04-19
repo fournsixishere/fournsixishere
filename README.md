@@ -8,7 +8,7 @@
 
 ```bash
 > cat /etc/profile
-Location     : /etc/indonesia  
+Location     : /etc/Singapore  
 Occupation   : Cybersecurity  
 Hobby        : Eradicate naughty mice 🐀
 ```
