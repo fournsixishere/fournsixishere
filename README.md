@@ -13,9 +13,9 @@
     <div class="line">Location     : /etc/Singapore</div>
     <div class="line">Occupation   : Cybersecurity</div>
     <div class="line">Hobby        : Eradicate naughty mice 🐀</div>
+    <div class="line">Languages    : Python, Bash, JavaScript, Go, C, C++, PowerShell, Assembly</div>
   </div>
 </body>
-</html>
 ```
 
 ---
