@@ -6,14 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Cybersecurity+Lover;Ethical+Hacker+in+Training;Always+on+Watch+Mode" alt="Typing SVG" />
 </p>
 
-### 🌑 About Me
-
 ```bash
 > whoami
 I'm a Cybersecurity Operative & Digital Vigilante
-```
 
-```bash
 > cat /etc/profile
 📍 Location     : /etc/indonesia  
 💼 Occupation   : Cybersecurity  
@@ -23,12 +19,6 @@ I'm a Cybersecurity Operative & Digital Vigilante
 
 ---
 
-### 🧠 Contribution Activity
-
 [![Fournsixishere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fournsixishere&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-<p align="center">
-  <i>Thanks for dropping by. See you in the next breach 🔐</i>
-</p>
