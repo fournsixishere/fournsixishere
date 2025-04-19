@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Cybersecurity+Lover;Ethical+Hacker+in+Training;Always+on+Watch+Mode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hii+fournsix+is+here+genk;apakah+kalian+siap+untuk+melihat+pertunjukan+selanjutnya%3F" alt="Typing SVG" />
 </p>
 
 ```bash
