@@ -1,7 +1,7 @@
 <!-- README Profil GitHub - Tema Cybersecurity, Dark Hacker -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/69/f6/bd69f65f9ea49db19c404f7be9e13781.gif" width="100%" />
+  <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">⚡ Welcome to My Cyber Fortress ⚡</h1>
