@@ -10,10 +10,10 @@
 <body>
   <div class="terminal">
     <div class="line"><span class="prompt">root@aboutme</span>:<span class="path">~</span>$ cat info.txt</div>
-    <div class="line">Location     : /etc/Singapore</div>
-    <div class="line">Occupation   : Cybersecurity</div>
-    <div class="line">Languages    : Python, Bash, JavaScript, Go, C, C++, PowerShell, Assembly</div>
-    <div class="line">Hobby        : Eradicate naughty mice 🐀</div>
+    <div class="line"><strong>Location</strong>   : /etc/Singapore</div>
+    <div class="line"><strong>Occupation</strong> : Cybersecurity</div>
+    <div class="line"><strong>Hobby</strong>      : Eradicate naughty mice 🐀</div>
+    <div class="line"><strong>Languages</strong>  : Python, Bash, JavaScript, Go, C, C++, PowerShell, Assembly</div>
   </div>
 
   <div class="terminal" style="margin-top: 1.5rem;">
