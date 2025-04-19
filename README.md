@@ -7,10 +7,15 @@
 </p>
 
 ```bash
-> cat /etc/profile
-Location     : /etc/Singapore  
-Occupation   : Cybersecurity  
-Hobby        : Eradicate naughty mice 🐀
+<body>
+  <div class="terminal">
+    <div class="line"><span class="prompt">root@aboutme</span>:<span class="path">~</span>$ cat info.txt</div>
+    <div class="line">Location     : /etc/Singapore</div>
+    <div class="line">Occupation   : Cybersecurity</div>
+    <div class="line">Hobby        : Eradicate naughty mice 🐀</div>
+  </div>
+</body>
+</html>
 ```
 
 ---
