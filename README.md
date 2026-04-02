@@ -9,7 +9,7 @@
       <span class="prompt">root@aboutme</span>:<span class="path">~</span>$ cat info.txt
     </div>
     <div class="line">
-      <strong>Location</strong>   : /etc/Singapore
+      <strong>Location</strong>   : /etc/Sydney
     </div>
     <div class="line">
       <strong>Occupation</strong> : Cybersecurity
